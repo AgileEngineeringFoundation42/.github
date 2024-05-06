@@ -9,6 +9,9 @@ This repo is for our Agile Engineering team building a modern CI/CD platform.
 + GitHub Actions: Automate tasks within the CI/CD pipeline.
 + E2E Pipelines: Build a seamless workflow from code commit to deployment.
 
+## SCRUM Board:
+https://trello.com/b/E5HmkHB5/42-agile-engineering-foundation
+
 # Getting Started:
 See CONTRIBUTING.md for setup and development instructions.
 
